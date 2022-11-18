@@ -37,13 +37,13 @@ else:
 
 #fuction - subroutine
 #print fuction
-def print_kevin():              # define a fuction
+def print_kevin():              # define a function
     text = "kevin has a great channel"
     print(text)
     print(text)
     print(text)
 
-print_kevin()    # call the fuction
+print_kevin()    # call the function
 print_kevin()
 print_kevin()
 
